@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: f52714bea8cfe22499435355c7bac359
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beaker
+    100002: BezierCurve
+    100004: Bunsen Burner
+    100006: Camera
+    100008: Clamp
+    100010: Cube
+    100012: Cube.001
+    100014: Cube.002
+    100016: Cube.003
+    100018: Cube.006
+    100020: Cylinder
+    100022: Cylinder.001
+    100024: Flask
+    100026: Flask_2
+    100028: Glass Rod
+    100030: lab
+    100032: //RootNode
+    100034: Lamp
+    100036: Mortar
+    100038: NurbsPath.000
+    100040: NurbsPath.001
+    100042: Pestle
+    100044: Plane
+    100046: Plane.001
+    100048: Plane.002
+    100050: Plane.003
+    100052: polySurface1
+    100054: polySurface10
+    100056: polySurface11
+    100058: polySurface12
+    100060: polySurface13
+    100062: polySurface14
+    100064: polySurface15
+    100066: polySurface16
+    100068: polySurface17
+    100070: polySurface18
+    100072: polySurface19
+    100074: polySurface2
+    100076: polySurface20
+    100078: polySurface21
+    100080: polySurface22
+    100082: polySurface3
+    100084: polySurface4
+    100086: polySurface5
+    100088: polySurface6
+    100090: polySurface7
+    100092: polySurface8
+    100094: polySurface9
+    100096: Rack
+    100098: Sphere
+    100100: Stand Base
+    100102: Stand Rod
+    100104: Testube
+    100106: Testube.001
+    100108: Testube_3
+    100110: transform1
+    400000: Beaker
+    400002: BezierCurve
+    400004: Bunsen Burner
+    400006: Camera
+    400008: Clamp
+    400010: Cube
+    400012: Cube.001
+    400014: Cube.002
+    400016: Cube.003
+    400018: Cube.006
+    400020: Cylinder
+    400022: Cylinder.001
+    400024: Flask
+    400026: Flask_2
+    400028: Glass Rod
+    400030: lab
+    400032: //RootNode
+    400034: Lamp
+    400036: Mortar
+    400038: NurbsPath.000
+    400040: NurbsPath.001
+    400042: Pestle
+    400044: Plane
+    400046: Plane.001
+    400048: Plane.002
+    400050: Plane.003
+    400052: polySurface1
+    400054: polySurface10
+    400056: polySurface11
+    400058: polySurface12
+    400060: polySurface13
+    400062: polySurface14
+    400064: polySurface15
+    400066: polySurface16
+    400068: polySurface17
+    400070: polySurface18
+    400072: polySurface19
+    400074: polySurface2
+    400076: polySurface20
+    400078: polySurface21
+    400080: polySurface22
+    400082: polySurface3
+    400084: polySurface4
+    400086: polySurface5
+    400088: polySurface6
+    400090: polySurface7
+    400092: polySurface8
+    400094: polySurface9
+    400096: Rack
+    400098: Sphere
+    400100: Stand Base
+    400102: Stand Rod
+    400104: Testube
+    400106: Testube.001
+    400108: Testube_3
+    400110: transform1
+    2000000: Camera
+    2100000: Material.013
+    2100002: Material.011
+    2100004: Material.010
+    2100006: Material
+    2100008: stainless_steel
+    2100010: emission
+    2100012: Material.001
+    2100014: Material.003
+    2100016: Material.014
+    2100018: Material.004
+    2100020: Material.002
+    2100022: sivergloss
+    2100024: Material.000
+    2100026: bronze
+    2100028: gold
+    2100030: glass
+    2100032: whitegloss
+    2100034: Material.008
+    2100036: glass.001
+    2100038: Material.009
+    2300000: Beaker
+    2300002: BezierCurve
+    2300004: Bunsen Burner
+    2300006: Clamp
+    2300008: Cube
+    2300010: Cube.001
+    2300012: Cube.002
+    2300014: Cube.003
+    2300016: Cube.006
+    2300018: Cylinder
+    2300020: Cylinder.001
+    2300022: Flask
+    2300024: Flask_2
+    2300026: Glass Rod
+    2300028: Mortar
+    2300030: NurbsPath.000
+    2300032: NurbsPath.001
+    2300034: Pestle
+    2300036: Plane
+    2300038: Plane.001
+    2300040: Plane.002
+    2300042: Plane.003
+    2300044: polySurface1
+    2300046: polySurface10
+    2300048: polySurface11
+    2300050: polySurface12
+    2300052: polySurface13
+    2300054: polySurface14
+    2300056: polySurface15
+    2300058: polySurface16
+    2300060: polySurface17
+    2300062: polySurface18
+    2300064: polySurface19
+    2300066: polySurface2
+    2300068: polySurface20
+    2300070: polySurface21
+    2300072: polySurface22
+    2300074: polySurface3
+    2300076: polySurface4
+    2300078: polySurface5
+    2300080: polySurface6
+    2300082: polySurface7
+    2300084: polySurface8
+    2300086: polySurface9
+    2300088: Rack
+    2300090: Sphere
+    2300092: Stand Base
+    2300094: Stand Rod
+    2300096: Testube
+    2300098: Testube.001
+    2300100: Testube_3
+    3300000: Beaker
+    3300002: BezierCurve
+    3300004: Bunsen Burner
+    3300006: Clamp
+    3300008: Cube
+    3300010: Cube.001
+    3300012: Cube.002
+    3300014: Cube.003
+    3300016: Cube.006
+    3300018: Cylinder
+    3300020: Cylinder.001
+    3300022: Flask
+    3300024: Flask_2
+    3300026: Glass Rod
+    3300028: Mortar
+    3300030: NurbsPath.000
+    3300032: NurbsPath.001
+    3300034: Pestle
+    3300036: Plane
+    3300038: Plane.001
+    3300040: Plane.002
+    3300042: Plane.003
+    3300044: polySurface1
+    3300046: polySurface10
+    3300048: polySurface11
+    3300050: polySurface12
+    3300052: polySurface13
+    3300054: polySurface14
+    3300056: polySurface15
+    3300058: polySurface16
+    3300060: polySurface17
+    3300062: polySurface18
+    3300064: polySurface19
+    3300066: polySurface2
+    3300068: polySurface20
+    3300070: polySurface21
+    3300072: polySurface22
+    3300074: polySurface3
+    3300076: polySurface4
+    3300078: polySurface5
+    3300080: polySurface6
+    3300082: polySurface7
+    3300084: polySurface8
+    3300086: polySurface9
+    3300088: Rack
+    3300090: Sphere
+    3300092: Stand Base
+    3300094: Stand Rod
+    3300096: Testube
+    3300098: Testube.001
+    3300100: Testube_3
+    4300000: BezierCurve
+    4300002: Cylinder.001
+    4300004: Cylinder
+    4300006: Sphere
+    4300008: NurbsPath.000
+    4300010: Plane.003
+    4300012: Plane.001
+    4300014: Plane.002
+    4300016: Plane
+    4300018: NurbsPath.001
+    4300020: Cube.003
+    4300022: Cube.002
+    4300024: Cube.001
+    4300026: Cube
+    4300028: polySurface1
+    4300030: polySurface2
+    4300032: polySurface3
+    4300034: polySurface4
+    4300036: polySurface5
+    4300038: polySurface6
+    4300040: polySurface7
+    4300042: polySurface8
+    4300044: polySurface9
+    4300046: polySurface10
+    4300048: polySurface11
+    4300050: polySurface12
+    4300052: polySurface13
+    4300054: polySurface14
+    4300056: polySurface15
+    4300058: polySurface16
+    4300060: polySurface17
+    4300062: polySurface18
+    4300064: polySurface19
+    4300066: polySurface20
+    4300068: polySurface21
+    4300070: polySurface22
+    4300072: Cube.006
+    4300074: Bunsen Burner
+    4300076: Clamp
+    4300078: Flask
+    4300080: Flask_2
+    4300082: Glass Rod
+    4300084: Mortar
+    4300086: Pestle
+    4300088: Rack
+    4300090: Stand Base
+    4300092: Stand Rod
+    4300094: Testube.001
+    4300096: Testube
+    4300098: Testube_3
+    4300100: Beaker
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
