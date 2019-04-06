@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 50d0ac1096eec9b4282062b048bcaa29
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beaker
+    100002: BezierCurve
+    100004: Bunsen Burner
+    100006: Camera
+    100008: Clamp
+    100010: Cube
+    100012: Cube.001
+    100014: Cube.002
+    100016: Cube.003
+    100018: Cube.006
+    100020: Cylinder
+    100022: Cylinder.001
+    100024: Flask
+    100026: Flask_2
+    100028: Glass Rod
+    100030: //RootNode
+    100032: lab
+    100034: Lamp
+    100036: Mortar
+    100038: NurbsPath.000
+    100040: NurbsPath.001
+    100042: Pestle
+    100044: Plane
+    100046: Plane.001
+    100048: Plane.002
+    100050: Plane.003
+    100052: Rack
+    100054: Sphere
+    100056: Stand Base
+    100058: Stand Rod
+    100060: Testube
+    100062: Testube.001
+    100064: Testube_3
+    400000: Beaker
+    400002: BezierCurve
+    400004: Bunsen Burner
+    400006: Camera
+    400008: Clamp
+    400010: Cube
+    400012: Cube.001
+    400014: Cube.002
+    400016: Cube.003
+    400018: Cube.006
+    400020: Cylinder
+    400022: Cylinder.001
+    400024: Flask
+    400026: Flask_2
+    400028: Glass Rod
+    400030: //RootNode
+    400032: lab
+    400034: Lamp
+    400036: Mortar
+    400038: NurbsPath.000
+    400040: NurbsPath.001
+    400042: Pestle
+    400044: Plane
+    400046: Plane.001
+    400048: Plane.002
+    400050: Plane.003
+    400052: Rack
+    400054: Sphere
+    400056: Stand Base
+    400058: Stand Rod
+    400060: Testube
+    400062: Testube.001
+    400064: Testube_3
+    2000000: Camera
+    2100000: Material.013
+    2100002: Material.011
+    2100004: Material.010
+    2100006: Material
+    2100008: stainless_steel
+    2100010: emission
+    2100012: Material.001
+    2100014: Material.003
+    2100016: Material.014
+    2100018: Material.004
+    2100020: Material.002
+    2100022: sivergloss
+    2100024: Material.000
+    2100026: bronze
+    2100028: gold
+    2100030: glass
+    2100032: whitegloss
+    2100034: Material.008
+    2100036: glass.001
+    2100038: Material.009
+    2300000: Beaker
+    2300002: BezierCurve
+    2300004: Bunsen Burner
+    2300006: Clamp
+    2300008: Cube
+    2300010: Cube.001
+    2300012: Cube.002
+    2300014: Cube.003
+    2300016: Cube.006
+    2300018: Cylinder
+    2300020: Cylinder.001
+    2300022: Flask
+    2300024: Flask_2
+    2300026: Glass Rod
+    2300028: lab
+    2300030: Mortar
+    2300032: NurbsPath.000
+    2300034: NurbsPath.001
+    2300036: Pestle
+    2300038: Plane
+    2300040: Plane.001
+    2300042: Plane.002
+    2300044: Plane.003
+    2300046: Rack
+    2300048: Sphere
+    2300050: Stand Base
+    2300052: Stand Rod
+    2300054: Testube
+    2300056: Testube.001
+    2300058: Testube_3
+    3300000: Beaker
+    3300002: BezierCurve
+    3300004: Bunsen Burner
+    3300006: Clamp
+    3300008: Cube
+    3300010: Cube.001
+    3300012: Cube.002
+    3300014: Cube.003
+    3300016: Cube.006
+    3300018: Cylinder
+    3300020: Cylinder.001
+    3300022: Flask
+    3300024: Flask_2
+    3300026: Glass Rod
+    3300028: lab
+    3300030: Mortar
+    3300032: NurbsPath.000
+    3300034: NurbsPath.001
+    3300036: Pestle
+    3300038: Plane
+    3300040: Plane.001
+    3300042: Plane.002
+    3300044: Plane.003
+    3300046: Rack
+    3300048: Sphere
+    3300050: Stand Base
+    3300052: Stand Rod
+    3300054: Testube
+    3300056: Testube.001
+    3300058: Testube_3
+    4300000: BezierCurve
+    4300002: Cylinder.001
+    4300004: Cylinder
+    4300006: Sphere
+    4300008: NurbsPath.000
+    4300010: Plane.003
+    4300012: Plane.001
+    4300014: Plane.002
+    4300016: Plane
+    4300018: NurbsPath.001
+    4300020: Cube.003
+    4300022: Cube.002
+    4300024: Cube.001
+    4300026: Cube
+    4300028: lab
+    4300030: Cube.006
+    4300032: Bunsen Burner
+    4300034: Clamp
+    4300036: Flask
+    4300038: Flask_2
+    4300040: Glass Rod
+    4300042: Mortar
+    4300044: Pestle
+    4300046: Rack
+    4300048: Stand Base
+    4300050: Stand Rod
+    4300052: Testube.001
+    4300054: Testube
+    4300056: Testube_3
+    4300058: Beaker
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

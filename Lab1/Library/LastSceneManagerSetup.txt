@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/amsaleem/Desktop/asla/sem3/Virtual_Reality/homework/h3/3D Manipulation/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
